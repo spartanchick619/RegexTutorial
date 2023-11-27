@@ -63,3 +63,4 @@ If you have any questions, please contact me at GitHub: https://github.com/spart
 Deployed Gist-GitHub link: https://gist.github.com/spartanchick619/3b3502a226d86513bb2f6a08802d753f
 Deployed GitHub: https://github.com/spartanchick619/RegexTutorial
 
+Video: https://youtu.be/A1wZtCKiPH8
